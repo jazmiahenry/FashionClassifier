@@ -25,7 +25,7 @@ This classifier was created to identify fashion styles between four categories: 
  
 4. API accuracy: 79.45206%
 
-*Example:
+*Examples:
 
 ![2Q__ (6)](https://user-images.githubusercontent.com/48301423/87227105-97423300-c366-11ea-9c09-a23e243be034.jpg)
 * {"message":"Success","result":[{"message":"Success","prediction":[{"label":"streetwear","probability":0.96925855},{"label":"grunge","probability":0.21886736},{"label":"haute_couture","probability":0.01011632},{"label":"preppy","probability":0.004824163}],"file":"2Q__ (6).jpg"}]}
