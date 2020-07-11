@@ -13,9 +13,11 @@ This classifier was created to identify fashion styles between four categories: 
             - Streetwear
             - Grunge
             - Haute Couture
+            
     B. Input code into Training_Model file
    
 3. Train Model with four fashion styles using 1000 photos:
+
             - Preppy
             - Streetwear
             - Grunge
